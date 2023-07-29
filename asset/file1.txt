@@ -1,1 +1,2 @@
 mencoba menambahkan file1 ke repository
+merubah file1
